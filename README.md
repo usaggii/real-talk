@@ -123,3 +123,7 @@ chore: upgrade prisma
 ## Author
 
 **Tenshi**: [GitHub](https://github.com/Tee-chan) · [LinkedIn](https://linkedin.com/in/georgeangel1)
+
+  ## License
+
+  MIT
